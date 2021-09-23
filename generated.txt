@@ -1,0 +1,9 @@
+X: 1
+S:Trad, arr Phil Rowe
+M:6/8
+K:F
+P:A
+E|(3"Am/a"ceg cag|"Dm"agf e2d|efd c2B|
+"F"ABc AFA|"Dm"d2d "A7"e2g|"B7"f3 d3|"F"c3 c2A|"C"G2c d2c|"G7""dm"G3 "G7"G3|
+"G"Bdd gab|"G"bag "D"agf| 11"Am"eAA "Em"AGE|"Am"c3 BcB|"Am"c3 e2d|
+"G"dBd dBG|"Am"cBc "D7"A2d|"G"BGG d2G|BGB dGB|edB d2B|"Em"GAB dcB|"Am"cAA A2:|
