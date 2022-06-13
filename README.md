@@ -3,8 +3,9 @@
 A neural network that compose music. You can play the example generated in this same repository.
 
 ## State
-In development
-The code with i have trained and used this model is a mess. I'm trying to clean it to push it in the repository but, at the same time, I'm trying to update the architecture to a transformer.
+In development. 
+
+It is functional, but the code with i have trained and used this model is a mess for now. I'm trying to clean it to push it in the repository but, at the same time, I'm trying to update the architecture to a transformer.
 
 ## How it works
 In this repository you can find the model. You only need to do:
@@ -25,7 +26,7 @@ print(result[0].numpy().decode('utf-8'), '\n\n' + '_'*80)
 It is an RNN so it: generates a music note, return a state and after it you can call generate_one_step with the new state again.
 
 ## Translate music as .mid
-I recomend use timidity to generate the .mid file:
+I recomend use _timidity_ to generate the .mid file:
 ```bash
 sudo apt-get install abcmidi timidity
 abc2midi my_file.abc -o my_file.mid && timidity my_file.mid
